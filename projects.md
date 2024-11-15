@@ -1,7 +1,3 @@
-Your projects are impressive, and organizing them well on your portfolio will surely grab attention! Here’s an optimized layout and wording for your portfolio:
-
----
-
 ## Projects
 
 ### Toys for Autistic Kids
