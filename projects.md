@@ -29,7 +29,6 @@
 ### A Simple Calculator
 - **Duration**: January 2022 - June 2022
 - **Technologies Used**: HTML, CSS, JavaScript
-- **Team Members**: G Uday Kumar, H Jayashankar, J Pushpavathi, N Vani, and MA Afreed Ali
 - **Description**: 
     - Created a simple calculator as a learning project.
     - **Link**: [GitHub - A Simple Calculator](https://sree2011.github.io/a-simple-calculator/)
