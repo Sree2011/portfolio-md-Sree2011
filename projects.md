@@ -56,3 +56,4 @@
     - Developed a versatile tool for calculating the bus admittance matrix from input data for bus and line parameters.
     - Overcame challenges with complex number handling and matrix calculations.
     - Resulted in a reliable tool for power system studies and applications.
+    - **Link**: [Github - Bus Admittance Matrix](https://sree2011.github.io/bus-admittance-matrix/)
