@@ -56,7 +56,6 @@
     - Overcame challenges with complex number handling and matrix calculations.
     - Resulted in a reliable tool for power system studies and applications.
     - **Link**: [Github - Bus Admittance Matrix](https://sree2011.github.io/bus-admittance-matrix/)
-Certainly! Here's a cohesive project description based on your provided information:
 
 ### Line Flows and Line Losses Implementation
 - **Duration**: November 2024  
