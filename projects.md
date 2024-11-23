@@ -1,3 +1,6 @@
+| [Home](./README.md) | [Skills](./skills.md) | [Projects](./projects.md) | [Contact](./contact.md) |
+|---|---|---|---|
+
 ## Projects
 
 ### Toys for Autistic Kids
