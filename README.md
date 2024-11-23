@@ -1,5 +1,4 @@
-| [Home](./README.md) | [Skills](./skills.md) | [Projects](./projects.md) | [Contact](./contact.md) |
-|---|---|---|---|
+<div><nav> <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: space-around; align-items: center;"> <li><a href="index.md" style="text-decoration: none; color: white; padding: 10px; display: block;">Home</a></li> <li><a href="about.md" style="text-decoration: none; color: white; padding: 10px; display: block;">About</a></li> <li><a href="projects.md" style="text-decoration: none; color: white; padding: 10px; display: block;">Projects</a></li> <li><a href="contact.md" style="text-decoration: none; color: white; padding: 10px; display: block;">Contact</a></li> </ul> </nav></div>
 
 # Welcome to My Portfolio
 
