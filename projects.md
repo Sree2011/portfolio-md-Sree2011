@@ -56,3 +56,17 @@
     - Overcame challenges with complex number handling and matrix calculations.
     - Resulted in a reliable tool for power system studies and applications.
     - **Link**: [Github - Bus Admittance Matrix](https://sree2011.github.io/bus-admittance-matrix/)
+Certainly! Here's a cohesive project description based on your provided information:
+
+### Line Flows and Line Losses Implementation
+- **Duration**: November 2024  
+- **Technologies Used**: Java, Python, MATLAB  
+- **Description**:
+    - Developed a versatile tool to compute line flows and losses in a power grid using Java, Python, and MATLAB.
+    - Effectively modeled power line behavior, providing critical insights into distribution and efficiency.
+    - Key features include detailed calculations, advanced techniques for complex number operations, and seamless integration across multiple platforms.
+    - Overcame challenges with complex number handling and matrix operations.
+    - Resulted in a robust tool that enhances power system analysis and optimization.
+    - **Link**: [Github - Line Flows and Line Losses](https://sree2011.github.io/line-flows-and-losses/)
+
+
