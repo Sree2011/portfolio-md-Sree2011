@@ -20,7 +20,7 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-remote_theme: pages-themes/leap-day
+remote_theme: pages-themes/dinky
 
 #theme: minimal-mistakes-jekyll
 markdown: kramdown
