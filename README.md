@@ -1,4 +1,5 @@
 |Links|Navigation|
+|:--:|:--:|
 |[Home](./README.md)|[Skills](./skills.md)|
 |[Projects](./projects.md)|[Contact](./contact.md)|
 
