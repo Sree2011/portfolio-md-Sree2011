@@ -1,7 +1,7 @@
 
-|[Home](./README.md)|[Skills](./skills.md)|[Projects](./projects.md)|[Contact](./contact.md)|
+|Home|Skills|Projects|Contact|
 |:--:|:--:|:--:|:--:|
-|||||
+|[Home](./README.md)|[Skills](./skills.md)|[Projects](./projects.md)|[Contact](./contact.md)|
 
 
 # Welcome to My Portfolio
