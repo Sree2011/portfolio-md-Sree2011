@@ -6,15 +6,14 @@
 
 # Welcome to My Portfolio
 
-# About Me
+## 💫 About Me
 
-Hello! I’m Sree Sai Nandini Gundraju, a Packaged App Development Associate at Accenture with a Bachelor's in Electrical and Electronics Engineering from Sree Vidyanikethan Engineering College.
+Hi there! I'm **Sree Sai Nandini Gundraju**, currently working as a **Packaged App Development Associate at Accenture**. I hold a Bachelor's degree in **Electrical and Electronics Engineering** from **Sree Vidyanikethan Engineering College**, and I’m passionate about blending power systems knowledge with innovative software development.
 
-I specialize in C, Java, Python, MATLAB, and Arduino UNO, and recently earned the **Microsoft Azure Fundamentals Certification**, enhancing my cloud computing skills. My passion lies in developing innovative solutions that drive efficiency and effectiveness.
+I specialize in **C**, **Java**, **Python**, **MATLAB**, and **Arduino UNO**, and I recently earned the **Microsoft Azure Fundamentals Certification (AZ-900)** — boosting my confidence in cloud computing and expanding my problem-solving toolkit.
 
-As a former Student Coordinator for the Indian Society for Technical Education, I honed my leadership and coordination skills. My academic journey includes two projects and a Grade B IUCEE PBL project, showcasing my teamwork and project management abilities.
+As a **former Student Coordinator for ISTE**, I gained hands-on experience in leadership, communication, and collaboration. My academic journey includes multiple technical projects, including a Grade B-rated team project under **IUCEE Project-Based Learning**, where I explored empathetic design for children with autism.
 
-I aim to bridge power systems with IT, ensuring seamless communication between components. I thrive on seeing the direct impact of my work and continuously learning new technologies.
+I’m fascinated by the intersection of **electrical systems and IT**, and I aspire to build solutions that ensure seamless communication between components, platforms, and people. I thrive on the joy of learning, adapting, and seeing the real-world impact of my work.
 
-Let’s connect for job opportunities, collaborations, or idea exchanges!
-
+Let’s connect to collaborate on impactful tech, explore new ideas, or just talk shop!
