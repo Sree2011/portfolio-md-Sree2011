@@ -4,72 +4,80 @@
 
 ## Projects
 
-### Toys for Autistic Kids
-- **Duration**: March 2020 - July 2020
-- **Technologies Used**: Proteus 8 Professional
-- **Team Members**: G Shamitha Reddy and J Pushpavathi
-- **Description**: 
-    - Part of IUCEE Project Based Learning.
-    - Designed a pillow toy for autistic kids to provide comfort and engagement.
-    - Presented to the jury and received a Grade B.
+### Smart Walking Stick for Blind People (SRP – Team Project)
+- **Duration**: Jan 2022 – Jun 2022  
+- **Technologies**: Arduino UNO, Ultrasonic Sensor, Proteus 8 Professional  
+- **Team Size**: 5  
+- **Highlights**:  
+  - Built an assistive device for visually impaired individuals using ultrasonic obstacle detection.  
+  - Contributed to hardware assembly, project report, and presentation.  
+  - Designed as a **low‑cost prototype (< ₹1000)** under the **Socially Relevant Project initiative**.  
 
-### Development of a Solar PV Multipurpose Charger
-- **Duration**: August 2021 - January 2022
-- **Technologies Used**: Voltage Booster, Solar Panel, Proteus 8 Professional
-- **Team Members**: G Uday Kumar, H Jayashankar, J Pushpavathi, N Vani, and MA Afreed Ali
-- **Description**: 
-    - Developed a multipurpose charger powered by a solar PV cell.
-    - Prepared the project report and presentation.
-    - Assisted in making hardware connections.
+---
 
-### Designing a Smart Walking Stick for Blind People Using Ultrasonic Sensor
-- **Duration**: January 2022 - June 2022
-- **Technologies Used**: Arduino UNO, Ultrasonic Sensor, Proteus 8 Professional
-- **Team Members**: G Uday Kumar, H Jayashankar, J Pushpavathi, N Vani, and MA Afreed Ali
-- **Description**: 
-    - Designed a smart walking stick for blind people using an ultrasonic sensor.
-    - Contributed to the project report, presentation, and hardware assembly.
+### Solar PV Multipurpose Charger (SRP – Team Project)
+- **Duration**: Aug 2021 – Jan 2022  
+- **Technologies**: Solar Panel, Voltage Booster, MATLAB, Proteus 8 Professional  
+- **Team Size**: 5  
+- **Highlights**:  
+  - Developed a multipurpose charger powered by solar PV cells.  
+  - Assisted in hardware connections and prepared project documentation.  
+  - Presented at **NCKITS 2022**; recognized under the **Socially Relevant Project initiative**.  
+
+---
+
+### Toys for Autistic Kids (IUCEE Project‑Based Learning – Team Project)
+- **Duration**: Mar 2020 – Jul 2020  
+- **Technologies**: Proteus 8 Professional  
+- **Team Size**: 3  
+- **Highlights**:  
+  - Designed a pillow toy to provide comfort and engagement for autistic children.  
+  - Presented to jury under **IUCEE PBL**; received Grade B and disqualified after presentation stage.  
+  - Key learning: empathetic design, teamwork, and presenting socially relevant solutions.  
+
+---
 
 ### A Simple Calculator
-- **Duration**: January 2022 - June 2022
-- **Technologies Used**: HTML, CSS, JavaScript
-- **Description**: 
-    - Created a simple calculator as a learning project.
-    - **Link**: [GitHub - A Simple Calculator](https://sree2011.github.io/a-simple-calculator/)
+- **Duration**: Jan 2022 – Jun 2022  
+- **Technologies**: HTML, CSS, JavaScript  
+- **Highlights**:  
+  - Built a basic calculator as a learning project.  
+  - **Link**: [GitHub – A Simple Calculator](https://sree2011.github.io/a-simple-calculator/)  
 
-### A Static Website for MPPS Kornamittapalli School
-- **Duration**: September 2024 - November 2024
-- **Technologies Used**: Markdown, GitHub Pages
-- **Description**: 
-    - Developed a static website for MPPS Kornamittapalli, a government school.
-    - **Link**: [GitHub - MPPS Kornamittapalli](https://sree2011.github.io/mpps-kornamittapalli/)
+---
 
-### A Library Book Management System
-- **Duration**: September 2024 - November 2024
-- **Technologies Used**: C, Java, Python, Markdown, GitHub Pages
-- **Description**: 
-    - Created a library book management system as a personal project.
-    - **Link**: [GitHub - Library Book Management System](https://sree2011.github.io/library-management-system-main-doc/)
+### Static Website for MPPS Kornamittapalli School
+- **Duration**: Sep 2024 – Nov 2024  
+- **Technologies**: Markdown, GitHub Pages  
+- **Highlights**:  
+  - Developed a static website for a government school.  
+  - **Link**: [GitHub – MPPS Kornamittapalli](https://sree2011.github.io/mpps-kornamittapalli/)  
+
+---
+
+### Library Book Management System
+- **Duration**: Sep 2024 – Nov 2024  
+- **Technologies**: C, Java, Python, Markdown, GitHub Pages  
+- **Highlights**:  
+  - Created a library book management system as a personal project.  
+  - **Link**: [GitHub – Library Book Management System](https://sree2011.github.io/library-management-system-main-doc/)  
+
+---
 
 ### Bus Admittance Matrix Implementation
-- **Duration**: November 2024
-- **Technologies Used**: Java, Python, MATLAB
-- **Description**: 
-    - Implemented a bus admittance matrix to model admittances between buses in a power grid.
-    - Developed a versatile tool for calculating the bus admittance matrix from input data for bus and line parameters.
-    - Overcame challenges with complex number handling and matrix calculations.
-    - Resulted in a reliable tool for power system studies and applications.
-    - **Link**: [Github - Bus Admittance Matrix](https://sree2011.github.io/bus-admittance-matrix/)
+- **Duration**: Nov 2024  
+- **Technologies**: Java, Python, MATLAB  
+- **Highlights**:  
+  - Implemented a tool to calculate bus admittance matrices for power grid studies.  
+  - Overcame challenges with complex number handling and matrix calculations.  
+  - **Link**: [GitHub – Bus Admittance Matrix](https://sree2011.github.io/bus-admittance-matrix/)  
+
+---
 
 ### Line Flows and Line Losses Implementation
-- **Duration**: November 2024  
-- **Technologies Used**: Java, Python, MATLAB  
-- **Description**:
-    - Developed a versatile tool to compute line flows and losses in a power grid using Java, Python, and MATLAB.
-    - Effectively modeled power line behavior, providing critical insights into distribution and efficiency.
-    - Key features include detailed calculations, advanced techniques for complex number operations, and seamless integration across multiple platforms.
-    - Overcame challenges with complex number handling and matrix operations.
-    - Resulted in a robust tool that enhances power system analysis and optimization.
-    - **Link**: [Github - Line Flows and Line Losses](https://sree2011.github.io/line-flows-and-losses/)
-
-
+- **Duration**: Nov 2024  
+- **Technologies**: Java, Python, MATLAB  
+- **Highlights**:  
+  - Developed a tool to compute line flows and losses in a power grid.  
+  - Modeled power line behavior and optimized efficiency.  
+  - **Link**: [GitHub – Line Flows and Line Losses](https://sree2011.github.io/line-flows-and-losses/)

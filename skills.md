@@ -7,14 +7,21 @@
 ### Programming Languages
 - Java
 - Python
-- HTML
-- CSS
-- JavaScript
+- C
+- HTML, CSS, JavaScript
 - MATLAB
 
-### Frameworks and Libraries
+### Frameworks & Tools
 - Spring Boot
-- Arduino UNO
+- REST APIs
+- Docker & Kubernetes (learning/working knowledge)
+- Git & GitHub
+- Arduino UNO (hardware prototyping)
+
+### Cloud Platforms
+- Microsoft Azure (Certified: AZ‑900)
+- AWS (hands‑on experience)
 
 ### Certifications
-- AZ-900: Microsoft Azure Fundamentals
+- **AZ‑900**: Microsoft Azure Fundamentals  
+- **GH‑300**: GitHub Copilot Certification
