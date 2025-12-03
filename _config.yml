@@ -19,9 +19,9 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-remote_theme: pages-themes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.27.3
 
-# theme: minimal-mistakes-jekyll
+
 
 markdown: kramdown
 kramdown:
