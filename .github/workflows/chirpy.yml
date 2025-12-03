@@ -28,7 +28,7 @@ jobs:
 
       # Instead of deploying to gh-pages, just keep _site in main
       - name: Upload site artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: site
           path: ./_site
